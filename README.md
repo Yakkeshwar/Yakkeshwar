@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakkeshwar&show_icons=true&locale=en" alt="yakkeshwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakkeshwar&" alt="yakkeshwar" /></p>
-[![Yakkeshwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/Yakkeshwar/github-readme-activity-graph)
+[![Yakkeshwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
