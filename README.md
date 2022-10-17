@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **media controlling using hand gestures**
 
-- 📫 How to reach me **yakkeshwar@gmail.com**
+- reach me at **yakkeshwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
