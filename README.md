@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ryakkeshwar" target="blank"><img src="https://img.shields.io/twitter/follow/ryakkeshwar?logo=twitter&style=for-the-badge" alt="ryakkeshwar" /></a> </p>
 
-- 🔭 I’m currently working on **media controlling using hand gestures**
+- 🔭 I’m currently working on **Text Summarization**
 
 - reach me at **yakkeshwar@gmail.com**
 
