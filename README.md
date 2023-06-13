@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yakkeshwar R</h1>
-<h3 align="center">Student seeking employment who works extensively. Technologically implement providing experience</h3>
-<h3 align="center">with a variety of social media platforms, oﬃce technology applications, and sophisticated computer</h3>
-<h3 align="center">abilities. Ready to use my skills and desire to support a company's objective.</h3>
+<h2 align="center">AI STUDENT<h3>
+<h3 align="center">Student seeking employment who works extensively. Technologically implement providing </h3>
+<h3 align="center">experience with a variety of social media platforms, oﬃce technology applications, and sophisticated </h3>
+<h3 align="center">computerabilities. Ready to use my skills and desire to support a company's objective.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakkeshwar&label=Profile%20views&color=0e75b6&style=flat" alt="yakkeshwar" /> </p>
 
