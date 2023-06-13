@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yakkeshwar R</h1>
-<h3 align="center">A 19 year-old python developer from India.</h3>
+<h3 align="center">Student seeking employment who works extensively. Technologically implement providing experience
+with a variety of social media platforms, oﬃce technology applications, and sophisticated computer
+abilities. Ready to use my skills and desire to support a company's objective.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakkeshwar&label=Profile%20views&color=0e75b6&style=flat" alt="yakkeshwar" /> </p>
 
